@@ -1,0 +1,14 @@
+{
+  "name": "subdir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}

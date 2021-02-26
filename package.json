@@ -1,0 +1,15 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "standard": "^16.0.3"
+  }
+}
